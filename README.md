@@ -67,6 +67,6 @@ Você pode ajustar as estimativas de consumo diretamente no arquivo `script.js` 
 
 ## Autor
 
-Desenvolvido por [Seu Nome]. 
+Desenvolvido por [Dayane Barbosa]. 
 
 Sinta-se à vontade para contribuir ou fazer sugestões para melhorar esta ferramenta!
