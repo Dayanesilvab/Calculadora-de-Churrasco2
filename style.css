@@ -1,0 +1,93 @@
+body {
+    font-family: "Roboto", sans-serif;
+    background: url(../Projeto/image/churrasco-3.png) no-repeat center center fixed;
+    background-size: cover;
+    color: #000000;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    background-color: rgba(208, 214, 173, 0.8);
+    padding: 90px;
+    border-radius: 100px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 900px;
+    text-align: center;
+    
+}
+
+
+
+#form_width {
+    max-width: 758px;
+    background: lawngreen;
+    margin-left: 300px;
+}
+
+h1 {
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.input-group {
+    margin-bottom: 19px;
+    text-align: left;
+}
+
+label {
+    display: block;
+    margin-bottom: 6px;
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+
+button {
+    padding: 10px 20px;
+    background-color: #389630; /* Cor laranja */
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+img {
+    display: block;
+    max-width: 70%;
+}
+
+
+#resultado {
+    margin-top: 5px;
+    text-align: left;
+}
+
+
+
+#result-list li {
+    margin: 5px 0;
+    position: left;
+    padding-left: 40px; 
+}
+
+
+
